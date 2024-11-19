@@ -2,5 +2,6 @@
   "MicrosoftTelemetryConnectionString": "",
   "type": "PTE",
   "templateUrl": "https://github.com/businesscentralapps/tmpSyRHBG-PTE@main",
-  "useProjectDependencies": true
+  "useProjectDependencies": true,
+  "templateSha": "407dd72c1d75bbbecde24f73a52316041b3b4ffc"
 }
